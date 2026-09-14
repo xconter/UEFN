@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "name": "/xconter@fortnite.com/LearningVerse",
+            "path": "C:/Users/mihu0/Documents/Fortnite Projects/LearningVerse/Content"
+        },
+        {
+            "name": "/xconter@fortnite.com/LearningVerse (Assets)",
+            "path": "C:/Users/mihu0/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/LearningVerse-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/mihu0/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/vproject"
+        },
+        {
+            "name": "/Verse.org",
+            "path": "C:/Users/mihu0/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/Verse"
+        },
+        {
+            "name": "/UnrealEngine.com",
+            "path": "C:/Users/mihu0/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/UnrealEngine"
+        },
+        {
+            "name": "/Fortnite.com",
+            "path": "C:/Users/mihu0/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/LearningVerse/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Verse (Dark)",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

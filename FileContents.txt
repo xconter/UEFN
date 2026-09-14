@@ -1,0 +1,5 @@
+In "GunGame" and "AimTrainer" you will find the project files of the Gun Game and the Aim Trainer
+
+In "LearningVerse1" is where I basically did my note taking
+
+Outside is some files I deemed notable
